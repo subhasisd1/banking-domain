@@ -1,0 +1,4 @@
+com\mycompany\banking\domain\Account.class
+com\mycompany\banking\domain\SavingsAccount.class
+com\mycompany\banking\domain\BankingDomain.class
+com\mycompany\banking\domain\CheckingAccount.class
